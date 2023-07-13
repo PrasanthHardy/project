@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-07T16:39:28 IST" name="Default suite" finished-at="2023-07-07T16:39:28 IST" duration-ms="182">
+    <groups>
+    </groups>
+    <test started-at="2023-07-07T16:39:28 IST" name="Default test" finished-at="2023-07-07T16:39:28 IST" duration-ms="182">
+      <class name="com.testng.concepts.Invocation">
+        <test-method signature="logout()[pri:0, instance:com.testng.concepts.Invocation@3315d2d7]" started-at="2023-07-07T16:39:28 IST" name="logout" finished-at="2023-07-07T16:39:28 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="searchheadset()[pri:0, instance:com.testng.concepts.Invocation@3315d2d7]" started-at="2023-07-07T16:39:28 IST" name="searchheadset" finished-at="2023-07-07T16:39:28 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchheadset -->
+        <test-method signature="searchheadset()[pri:0, instance:com.testng.concepts.Invocation@3315d2d7]" started-at="2023-07-07T16:39:28 IST" name="searchheadset" finished-at="2023-07-07T16:39:28 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchheadset -->
+        <test-method signature="searchheadset()[pri:0, instance:com.testng.concepts.Invocation@3315d2d7]" started-at="2023-07-07T16:39:28 IST" name="searchheadset" finished-at="2023-07-07T16:39:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchheadset -->
+        <test-method signature="searchheadset()[pri:0, instance:com.testng.concepts.Invocation@3315d2d7]" started-at="2023-07-07T16:39:28 IST" name="searchheadset" finished-at="2023-07-07T16:39:28 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchheadset -->
+        <test-method signature="searchlaptop()[pri:0, instance:com.testng.concepts.Invocation@3315d2d7]" started-at="2023-07-07T16:39:28 IST" name="searchlaptop" finished-at="2023-07-07T16:39:28 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchlaptop -->
+        <test-method signature="searchlaptop()[pri:0, instance:com.testng.concepts.Invocation@3315d2d7]" started-at="2023-07-07T16:39:28 IST" name="searchlaptop" finished-at="2023-07-07T16:39:28 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchlaptop -->
+        <test-method signature="searchlaptop()[pri:0, instance:com.testng.concepts.Invocation@3315d2d7]" started-at="2023-07-07T16:39:28 IST" name="searchlaptop" finished-at="2023-07-07T16:39:28 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchlaptop -->
+        <test-method signature="searchlaptop()[pri:0, instance:com.testng.concepts.Invocation@3315d2d7]" started-at="2023-07-07T16:39:28 IST" name="searchlaptop" finished-at="2023-07-07T16:39:28 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchlaptop -->
+        <test-method signature="searchlaptop()[pri:0, instance:com.testng.concepts.Invocation@3315d2d7]" started-at="2023-07-07T16:39:28 IST" name="searchlaptop" finished-at="2023-07-07T16:39:28 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchlaptop -->
+        <test-method signature="verifyhomepage()[pri:0, instance:com.testng.concepts.Invocation@3315d2d7]" started-at="2023-07-07T16:39:28 IST" name="verifyhomepage" finished-at="2023-07-07T16:39:28 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyhomepage -->
+      </class> <!-- com.testng.concepts.Invocation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
